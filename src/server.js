@@ -7,8 +7,8 @@ const app = express();
 const PORT = 4000;
 
 
-const listaLeilao = [{'id':'0', 'dia':'1', 'mes':'1', 'localiza':'lala', 'time':'000' },
-                     {'id':'1', 'dia':'2', 'mes':'2', 'localiza':'seila', 'time':'111' },
+const listaLeilao = [{'id':'0', 'dia':'11', 'mes':'11', 'localiza':'lala', 'time':'16hrs' },
+                     {'id':'1', 'dia':'12', 'mes':'02', 'localiza':'seila', 'time':'17hrs' },
                         ];
 
 app.use(express.static(path.join(__dirname, '/build')));
