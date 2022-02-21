@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6d797fe.chunk.css",
-    "main.js": "/static/js/main.42129de4.chunk.js",
-    "main.js.map": "/static/js/main.42129de4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5feda66b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5feda66b.js.map",
-    "static/css/2.b9720921.chunk.css": "/static/css/2.b9720921.chunk.css",
-    "static/js/2.b5ce3445.chunk.js": "/static/js/2.b5ce3445.chunk.js",
-    "static/js/2.b5ce3445.chunk.js.map": "/static/js/2.b5ce3445.chunk.js.map",
-    "static/js/3.9214d518.chunk.js": "/static/js/3.9214d518.chunk.js",
-    "static/js/3.9214d518.chunk.js.map": "/static/js/3.9214d518.chunk.js.map",
+    "main.css": "/static/css/main.236b8311.chunk.css",
+    "main.js": "/static/js/main.b0644969.chunk.js",
+    "main.js.map": "/static/js/main.b0644969.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ac831502.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ac831502.js.map",
+    "static/css/2.8af9fd75.chunk.css": "/static/css/2.8af9fd75.chunk.css",
+    "static/js/2.7826dd52.chunk.js": "/static/js/2.7826dd52.chunk.js",
+    "static/js/2.7826dd52.chunk.js.map": "/static/js/2.7826dd52.chunk.js.map",
+    "static/js/3.140ab4b1.chunk.js": "/static/js/3.140ab4b1.chunk.js",
+    "static/js/3.140ab4b1.chunk.js.map": "/static/js/3.140ab4b1.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.b9720921.chunk.css.map": "/static/css/2.b9720921.chunk.css.map",
-    "static/css/main.a6d797fe.chunk.css.map": "/static/css/main.a6d797fe.chunk.css.map",
-    "static/js/2.b5ce3445.chunk.js.LICENSE.txt": "/static/js/2.b5ce3445.chunk.js.LICENSE.txt",
+    "static/css/2.8af9fd75.chunk.css.map": "/static/css/2.8af9fd75.chunk.css.map",
+    "static/css/main.236b8311.chunk.css.map": "/static/css/main.236b8311.chunk.css.map",
+    "static/js/2.7826dd52.chunk.js.LICENSE.txt": "/static/js/2.7826dd52.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/AgendaItem.0e2d46eb.png",
     "static/media/CHN.47726b2b.svg": "/static/media/CHN.47726b2b.svg",
     "static/media/EUR.5539b356.svg": "/static/media/EUR.5539b356.svg",
@@ -23,10 +23,10 @@
     "static/media/slider3.7f4c98bd.png": "/static/media/slider3.7f4c98bd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5feda66b.js",
-    "static/css/2.b9720921.chunk.css",
-    "static/js/2.b5ce3445.chunk.js",
-    "static/css/main.a6d797fe.chunk.css",
-    "static/js/main.42129de4.chunk.js"
+    "static/js/runtime-main.ac831502.js",
+    "static/css/2.8af9fd75.chunk.css",
+    "static/js/2.7826dd52.chunk.js",
+    "static/css/main.236b8311.chunk.css",
+    "static/js/main.b0644969.chunk.js"
   ]
 }
